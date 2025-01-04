@@ -8,5 +8,6 @@
 </head>
 <body>
  <h1>this is about page</h1>
+ <h2>Hedding tag 2</h2>
 </body>
 </html>
